@@ -1,9 +1,9 @@
 {
-  "name":"B.M.B-TECH",
+  "name":"M.O.E-TECH",
   "description":"Best whatsapp bot💥 developed by bmb tech🇹🇿 ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/hflcbc.jpg",
-  "repository":"https://github.com/ekitale/maths-project",
+  "logo":"https://i.postimg.cc/WbJnHzrq/IMG-4230.jpg",
+  "repository":"https://github.com/Kennwalker/B.M.B-TECH.git",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -58,14 +58,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"B.M.B-TECH",
+      "value":"M.O.E-TECH",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/hflcbc.jpg",
+      "value":"https://i.postimg.cc/WbJnHzrq/IMG-4230.jpg",
       "required":false
        
      },
@@ -89,7 +89,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0FaVUU2Tzl2MEY2MDdQTGVwU2xCOGxqeWpWK1Q4cjY2UVZlYXh6d25tYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMXYzaEpFQVdFUjdvQ3ltVStDUVVqOEJRZUZCL1doVlc1TE44NlpjUGZVND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJSkM4NlVMOWJGdnllbXhpMzFwTk1lK1REZno3QmpYTjh3aUZoNytNZTNjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJwZjNQcWs4MHFNNThRRWVEdDJFZU1HVEIyeXVXN2xEc0lkMVZTVHdSb1dRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjhQM3U0VmFDZmpzT3FJSHdTY0YwSXZqdmVvR2NqQ2p6bFpYNkIxNVJIMlE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjlxVklKckcvSG9yN0hDai9HRUlyWDMwM29ENmM1bk5ubU9WbXpGSFBUU2s9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiME1NeGRnRFMrY21DYlh6T29valJTNHE5Z2w5amZ6QUNVd3dGV1pKelprZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVjBhRE9IQ2szT0JUMU0yRnhPZ1plL09ROEhyNTRNQkZHRnUvTU5CMml5ST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Indma01zK3hWVmFwOTRWTklFd1NHL1FtRGtBY3orUFNSd3RYNWNoUFRqVW5pVk5LOUJmL2YyK3h1VU5GYzJsQWVkOUc2ZlpNSVMxVEk5MGtJaEZ4L0FRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzAsImFkdlNlY3JldEtleSI6InhXcDFTQWU3MVlHY2w3RmFKQmlUL0t5VFYvRWZwdzEyWC9DWXZsYW92SDQ9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMTIxMzYwNjE3NjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0E3QkY5QTQ4QUIzRDNCQjk5OTYifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1MDQxNjYwOX0seyJrZXkiOnsicmVtb3RlSmlkIjoiMTIxMzYwNjE3NjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0FBNTkyMzRFMjY1QjJBRkQ5NzkifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1MDQxNjYxMn0seyJrZXkiOnsicmVtb3RlSmlkIjoiMTIxMzYwNjE3NjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0EwQkZCQUMyQjY5OURCMUI4NjcifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc1MDQxNjYxM31dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiNkdYNDJGVFAiLCJtZSI6eyJpZCI6IjEyMTM2MDYxNzY1OjlAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoifuGhleGgteGgiuGhg+C7iOChmuCgouCgmOK4neC7iOCgoeGgit+v4aGB4KCj4KCY4aCK4aCK4KCi4KCY5rCU5LqgTW9F4aGV4aC14aCK4aGD4LuI4KGa4KCi4KCY4rid4LuI4KCh4aCK36/hoYHgoKPgoJjhoIrhoIrgoKLgoJjmsJTkuqAiLCJsaWQiOiIyNDc1NjI1MzU3MTUwMjU6OUBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ05HTmdNQUtFTlA1MU1JR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Iml3cWJCMENsMEdJWDR1eXViWTRHQkdTY2tLMWpWdnpjeE1wNDNQYWg4a2s9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkV1RTVWMnVTMFMrNE1WdTB0NitEdjg4ckdLc0pPUlB4czV5SHc1V0U2cm8zdTZQemZWT29qMVQvcU56WFZCSk00NlNXSFZGbk5nd1Z6Ym9ra1VrVGlRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJUT2xHNTl2M0pSZEdPeCtTaHpraC94OEVaYXIweDlnSU1kYkt2SW55L2ZCVTF4OGd5dzFXQXYyS0hlSERLTDhvV0lxNTNJcEc0L01kOGoyQVo1alJBdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjEyMTM2MDYxNzY1OjlAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWXNLbXdkQXBkQmlGK0xzcm0yT0JnUmtuSkN0WTFiODNNVEtlTnoyb2ZKSiJ9fV0sInBsYXRmb3JtIjoic21iaSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0JJSUJRPT0ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzUwNDE2NjA4LCJsYXN0UHJvcEhhc2giOiIyVjc3cVUiLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUVEQyJ9",
       "required":true
       
     },
@@ -98,14 +98,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝙱.𝙼.𝙱-𝚇𝙼𝙳"
+    "value": "~ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠MoEᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘᠊᠊ࠢ࠘气亠"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "255767862457"
+    "value": "12136061765"
   },
     "WARN_COUNT":
   {
